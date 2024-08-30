@@ -1,1 +1,2 @@
 Commit Revert 2
+This is Comparism lecture
